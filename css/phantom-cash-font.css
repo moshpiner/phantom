@@ -1,0 +1,8 @@
+/* PhantomCash-Regular.woff2 */
+@font-face {
+  font-family: "PhantomCash";
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(../fonts/PhantomCash-Regular.woff2) format("woff2");
+}

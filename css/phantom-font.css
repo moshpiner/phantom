@@ -1,0 +1,98 @@
+/* Phantom-Bold.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Bold.woff2) format("woff2");
+}
+
+/* Phantom-BoldItalic.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+  src: url(../fonts/Phantom-BoldItalic.woff2) format("woff2");
+}
+
+/* Phantom-Book.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Book.woff2) format("woff2");
+}
+
+/* Phantom-BookItalic.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: italic;
+  font-weight: 300;
+  font-display: fallback;
+  src: url(../fonts/Phantom-BookItalic.woff2) format("woff2");
+}
+
+/* Phantom-Light.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 200;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Light.woff2) format("woff2");
+}
+
+/* Phantom-LightItalic.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: italic;
+  font-weight: 200;
+  font-display: fallback;
+  src: url(../fonts/Phantom-LightItalic.woff2) format("woff2");
+}
+
+/* Phantom-Medium.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Medium.woff2) format("woff2");
+}
+
+/* Phantom-MediumItalic.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: italic;
+  font-weight: 500;
+  font-display: fallback;
+  src: url(../fonts/Phantom-MediumItalic.woff2) format("woff2");
+}
+
+/* Phantom-Regular.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Regular.woff2) format("woff2");
+}
+
+/* Phantom-RegularItalic.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(../fonts/Phantom-RegularItalic.woff2) format("woff2");
+}
+
+/* Phantom-Book.woff2 */
+@font-face {
+  font-family: "Phantom";
+  font-style: normal;
+  font-weight: 350;
+  font-display: fallback;
+  src: url(../fonts/Phantom-Book.woff2) format("woff2");
+}
